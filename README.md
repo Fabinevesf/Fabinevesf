@@ -68,7 +68,7 @@ SKILL ICONS!
   </a>
     &nbsp;
     <a href="https://github.com/Fabinevesf/CodeOp-FullStackCouse/tree/main">
-    <img src="CodeOp-Banner.png" width="400"/>
+    <img src="https://github.com/Fabinevesf/CodeOp-FullStackCouse/blob/main/CodeOp-Banner.png" width="400"/>
   </a>
 </p>
 
