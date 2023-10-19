@@ -66,6 +66,10 @@ SKILL ICONS!
     <a href="https://github.com/Fabinevesf/Piscine">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="400"/>
   </a>
+    &nbsp;
+    <a href="https://github.com/Fabinevesf/CodeOp-FullStackCouse/tree/main">
+    <img src="CodeOp-Banner.png" width="400"/>
+  </a>
 </p>
 
 --------------------------------------------------------------------------------------------------
