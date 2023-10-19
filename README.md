@@ -60,11 +60,11 @@ SKILL ICONS!
 
 <p float="left" align="center">
     &nbsp;
-  <a href="https://github.com/Fabinevesf/Piscine">
+  <a href="">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="300"/>
   </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
+    <a href="https://github.com/Fabinevesf/Piscine">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="300"/>
   </a>
 </p>
@@ -73,11 +73,11 @@ SKILL ICONS!
 
 <p float="left" align="center">
     &nbsp;
-  <a href="https://github.com/luis-ffe/42-common-core">
+  <a href="">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerccore.png" width="400"/>
   </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
+    <a href="https://github.com/Fabinevesf/Piscine">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="400"/>
   </a>
 </p>
