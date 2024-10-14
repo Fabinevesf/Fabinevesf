@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Hi! I'm Fabiana Neves</strong>, Software Developer :)</h2>
+<h2 align="center"><strong>Hi! I'm Fabiana Neves</strong> :)</h2>
 
 
 <!-- 
